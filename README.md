@@ -22,7 +22,7 @@ The companies main database structure as seen below consists of four tables: Ord
 - **People:** represents salespeople or employees associated with different region
 
 <p align="center">
-    <img src="SuperstoreERD.png" alt="SuperstoreERD.png" width="800">
+    <img src="SuperstoreERD.png" alt="SuperstoreERD.png" width="500">
 </p>
 
 # Executive Summary
