@@ -1,17 +1,22 @@
-# Superstore Sales
+# Superstore Sales (2014-2017)
 
-# Project Background
+# Project Background 
 Superstore, founded over a decade ago, is a fictional U.S.-based retail company specializing in a wide range of consumer and office products, available through its website and mobile app. The company has significant data on sales, operations, marketing, and customer behaviors. But much of this data has yet to be fully leveraged for strategic decision-making. This project undertakes a comprehensive analysis to unlock valuable insights that can enhance Superstore’s market position.
 
 Insights and recommendations are provided on the following key areas:
-- **Sales Trends Analysis:**  Review of historical sales by product category and region, focusing on Revenue, Order Volume, and Average Order Value (AOV).
-- **Product Performance:** Assessment of top-performing products and categories, including an evaluation of Return Rates.
-- **Customer Retention:** Analysis of customer segments to enhance retention, including impact assessment of discount strategies.
-- **Regional Sales Patterns:** Comparative analysis of sales and order volume across regions to identify market-specific trends and opportunities.
+- **Sales Trend Analysis:** Evaluation of sales patterns from 2014-2017. Identifying any major fluctuations in sales volumes by month, quarter, and year, as well as any notable seasonal patterns across different regions or product categories.
+- **Growth Rates:** Identify where we are seeing the most significant growth and which areas might need more attention. I am aiming to understand our growth trajectory. Utilizing year-over-year growth rates in sales and profit by region, segment, and product category
+- **Sales Performance Evaluation:**  An assessment of the performance of regional sales teams focusing on sales figures and profit margins by sales representatives or customer segments to identify any performance gaps.
+- **KPI Reporting:** Tracking and analyzing essential Key Performance Indicators (KPIs) such as sales conversion rate, average order value, and customer lifetime value. 
+- **Actionable Insights:** Identify any underperforming product categories or regions that. Also, understand which products are seeing a decline in sales or have low profitability.
+
 
 The Python code used to inspect and clean the data for this analysis can be found here [link].
+- Additionally, the cleaned version of the table can be found here [link].
 
-An interactive Tableau dashboard used to report and explore sales trends can be found here [link].
+The Python code used to explore sales trends can be found here [link].
+
+An interactive Tableau dashboard used to present my findings can be found here [link].
 
 # Data Structure & Initial Checks
 Data can be downloaded [here](https://community.tableau.com/s/question/0D54T00000CWeX8SAL/sample-superstore-sales-excelxls)
@@ -19,7 +24,7 @@ Data can be downloaded [here](https://community.tableau.com/s/question/0D54T0000
 The companies main database structure as seen below consists of four tables: Orders, Returns, People with a total row count of X records. A description of each table is as follows:
 - **Orders:** represents individual transactions or orders placed by customers
 - **Returns:** represents orders that have been returned, including information on which orders were returned
-- **People:** represents salespeople or employees associated with different region
+- **People:** represents salespeople or employees associated with different regions
 
 <p align="center">
     <img src="SuperstoreERD.png" alt="SuperstoreERD.png" width="670">
