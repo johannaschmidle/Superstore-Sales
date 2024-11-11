@@ -8,7 +8,7 @@ Insights and recommendations are provided on the following key areas:
 - **Growth Rates:** Identify where we are seeing the most significant growth and which areas might need more attention. I am aiming to understand our growth trajectory. Utilizing year-over-year growth rates in sales and profit by region, segment, and product category
 - **Sales Performance Evaluation:**  An assessment of the performance of regional sales teams focusing on sales figures and profit margins by sales representatives or customer segments to identify any performance gaps.
 - **KPI Reporting:** Tracking and analyzing essential Key Performance Indicators (KPIs) such as sales conversion rate, average order value, and customer lifetime value. 
-- **Actionable Insights:** Identify any underperforming product categories or regions that. Also, understand which products are seeing a decline in sales or have low profitability.
+- **Actionable Insights:** Identifying any underperforming product categories or regions that. Also, understand which products are seeing a decline in sales or have low profitability.
 
 
 The Python code used to inspect and clean the data for this analysis can be found here [link].
